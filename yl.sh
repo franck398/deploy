@@ -9,3 +9,5 @@ echo "Tesla Model3 can carry $l kgs"
 l=`expr $l + 10000`
 done  
 echo "while loop ends"
+echo "congrat for your course on git"
+²
