@@ -6,4 +6,5 @@ mkdir /var/www/html/landmark
 mkdir /var/www/html/class    
  echo "<h1> Welcome to Class39 </h1>" > /var/www/html/landmark/index.html
  echo "<h1> 2025 you shall shine </h1>" >> /var/www/html/landmark/index.html
+ echo "thank you for your repo"
 
